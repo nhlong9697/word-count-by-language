@@ -7,8 +7,7 @@ nltk.download('words')
 
 nltk.download('swadesh')
 vietnamese_word_set = set()
-french_word_set = set(w.lower() for w in nltk.corpus.swadesh.words('fr'))
-spanish_word_set = set(w.lower() for w in nltk.corpus.swadesh.words('es'))
+french_word_set = set()
 english_word_set = set()
 
 # Read words from the text file and store them in a set
@@ -20,6 +19,10 @@ with open('english.txt', 'r', encoding='utf-8') as file:
     for line in file:
         word = line.strip()  # Remove leading/trailing whitespaces, newlines, etc.
         english_word_set.add(word.lower())
+with open('french.txt', 'r', encoding='utf-8') as file:
+    for line in file:
+        word = line.strip()  # Remove leading/trailing whitespaces, newlines, etc.
+        french_word_set.add(word.lower())
 
 def is_french_word(word):
     return word.lower() in french_word_set
@@ -47,8 +50,6 @@ def detect_language(word):
         return 'en'
     elif is_french_word(word):
         return 'fr'
-    elif is_spanish_word(word):
-        return 'es'
     else:
         return 'unknown'
 

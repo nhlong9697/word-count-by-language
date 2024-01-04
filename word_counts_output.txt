@@ -719,7 +719,7 @@ UỐNG: 1
 ĐỨC: 1
 
 Language: unknown
-Total Words: 860
+Total Words: 832
 Word Count:
 XUAN: 1
 Kiem: 6
@@ -759,11 +759,8 @@ Onebank: 1
 365: 1
 15: 5
 0948938354: 1
-étage: 2
-Café: 11
 9A: 2
 LYNH: 1
-CAFÉ: 8
 0974889368: 1
 3G: 1
 4G: 2
@@ -895,7 +892,6 @@ TROPICANA: 1
 368: 2
 WEASAL: 1
 KOPILUWAK: 1
-MOKA: 1
 098: 3
 273: 1
 6382: 1
@@ -907,7 +903,6 @@ luonganhnhi19042007: 1
 12: 2
 000: 8
 SÔCÔLA: 1
-Matcha: 3
 Grean: 2
 MOCHI: 2
 mochi: 4
@@ -956,8 +951,6 @@ WEBSITE: 1
 HUYHOANGBOOK: 1
 TIKTAK: 2
 DEVIALET: 1
-INGÉNIERIE: 1
-ACOUSTIQUE: 1
 58: 1
 3489: 1
 7787: 1
@@ -1047,7 +1040,6 @@ NK: 1
 20: 1
 ESTHEVA: 1
 ROMIO: 1
-VAPE: 1
 Sũ: 7
 086: 1
 3411193: 1
@@ -1748,6 +1740,18 @@ VESPA: 1
 LX: 1
 LIBERTY: 1
 TAILOR: 1
+
+Language: fr
+Total Words: 28
+Word Count:
+étage: 2
+Café: 11
+CAFÉ: 8
+MOKA: 1
+Matcha: 3
+INGÉNIERIE: 1
+ACOUSTIQUE: 1
+VAPE: 1
 
 Language: zh
 Total Words: 19
