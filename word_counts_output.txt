@@ -725,7 +725,7 @@ UỐNG: 1
 ĐỨC: 1
 
 Language: unknown
-Total Words: 293
+Total Words: 291
 Word Count:
 XUAN: 1
 Kiem: 6
@@ -816,7 +816,6 @@ HUYHOANGBOOK: 1
 TIKTAK: 2
 DEVIALET: 1
 KITSUNÉ: 1
-BLOCKCHAIN: 2
 GUOM: 1
 Givral: 1
 PHUONG: 1
@@ -909,7 +908,7 @@ vihafood: 1
 63a: 1
 
 Language: en
-Total Words: 934
+Total Words: 936
 Word Count:
 CORPORATION: 2
 ELECTRIC: 1
@@ -1255,6 +1254,7 @@ BODEGA: 1
 street: 1
 FAX: 1
 MAISON: 1
+BLOCKCHAIN: 2
 ASSOCIATION: 1
 BEAUTY: 2
 SAVINA: 1
