@@ -1,16 +1,12 @@
-
 import pandas as pd
 import re
 from collections import defaultdict
-import nltk
-nltk.download('words')
 
-nltk.download('swadesh')
 vietnamese_word_set = set()
 french_word_set = set()
 english_word_set = set()
 
-# Read words from the text file and store them in a set
+# Read words from the words set file and store them in a set
 with open('vietnamese.txt', 'r', encoding='utf-8') as file:
     for line in file:
         word = line.strip()  # Remove leading/trailing whitespaces, newlines, etc.
@@ -24,6 +20,7 @@ with open('french.txt', 'r', encoding='utf-8') as file:
         word = line.strip()  # Remove leading/trailing whitespaces, newlines, etc.
         french_word_set.add(word.lower())
 
+#Function to check if a word is in the list
 def is_french_word(word):
     return word.lower() in french_word_set
 def is_spanish_word(word):
@@ -32,7 +29,8 @@ def is_english_word(word):
     return word.lower() in english_word_set
 def is_vietnamse_word(word):
     return word.lower() in vietnamese_word_set
-# Function to detect language of a word using character ranges
+
+# Function to detect language of a word
 def detect_language(word):
     chinese_pattern = re.compile(r'[\u4e00-\u9fff]+')  # Chinese character range
     japanese_pattern = re.compile(r'[\u3040-\u30ff\u31f0-\u31ff\u3200-\u32ff]+')  # Japanese character range
