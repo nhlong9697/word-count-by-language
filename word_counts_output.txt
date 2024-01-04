@@ -1,5 +1,5 @@
 Language: vn
-Total Words: 1953
+Total Words: 1971
 Word Count:
 CÔNG: 25
 TY: 24
@@ -394,6 +394,7 @@ chăm: 2
 sóc: 2
 sức: 2
 khỏe: 2
+mỹ: 2
 trang: 3
 thiết: 2
 bị: 2
@@ -403,6 +404,7 @@ Phụ: 2
 trách: 2
 chuyên: 2
 môn: 2
+NGUYỄN: 2
 THÙY: 1
 LINH: 2
 đủ: 2
@@ -499,6 +501,7 @@ Hạnh: 1
 Bảo: 1
 Hưng: 1
 Lò: 7
+Sũ: 7
 Lý: 1
 QUẦN: 1
 ÁO: 1
@@ -523,11 +526,13 @@ từ: 1
 TE: 1
 GIẤY: 1
 LÒ: 6
+SŨ: 5
 VƯỢNG: 1
 in: 2
 HỢP: 2
 TÁC: 1
 XÃ: 1
+MỸ: 1
 ĐỒ: 1
 Ho: 2
 NƯỚNG: 2
@@ -662,6 +667,7 @@ TẾT: 1
 XO: 1
 BÀN: 1
 SỔ: 1
+Nguyễn: 1
 Xí: 1
 XÍ: 1
 SƠ: 1
@@ -719,7 +725,7 @@ UỐNG: 1
 ĐỨC: 1
 
 Language: unknown
-Total Words: 311
+Total Words: 293
 Word Count:
 XUAN: 1
 Kiem: 6
@@ -815,9 +821,7 @@ GUOM: 1
 Givral: 1
 PHUONG: 1
 HAPHARCO: 5
-mỹ: 2
 DSĐH: 2
-NGUYỄN: 2
 GCN: 2
 DDKKDDD: 2
 HNO: 2
@@ -842,18 +846,15 @@ banhmilonghoi: 1
 NK: 1
 ESTHEVA: 1
 ROMIO: 1
-Sũ: 7
 Làgi: 1
 TNHHDV: 1
 Luu: 1
 19K: 1
 MOUYE: 1
 54A: 1
-SŨ: 5
 SkyWalkers: 1
 skywalkers: 1
 valicaptui: 1
-MỸ: 1
 ĐC1: 1
 ĐC2: 1
 TEP: 1
@@ -893,7 +894,6 @@ intienhung: 2
 hanoioptic: 1
 4P: 1
 THAIOPERA: 1
-Nguyễn: 1
 nguyenxi02: 1
 LETHACHQUANHN: 1
 GMAIL: 1
