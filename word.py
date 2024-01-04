@@ -52,13 +52,29 @@ def detect_language(word):
     else:
         return 'unknown'
 
+def separate_characters_and_words(sentence):
+    # Regular expression pattern to match individual Chinese, Korean, and Japanese characters
+    chinese_characters = re.findall(r'[\u4e00-\u9fff]', sentence)
+    korean_characters = re.findall(r'[\uac00-\ud7a3]', sentence)
+    japanese_characters = re.findall(r'[\u3040-\u309f\u30a0-\u30ff]', sentence)
+
+    # Remove CJK characters to get English words and numbers
+    sentence_without_cjk = re.sub(r'[\u4e00-\u9fff\uac00-\ud7a3\u3040-\u309f\u30a0-\u30ff]', ' ', sentence)
+
+    # Split the remaining text by spaces to extract English words and numbers
+    english_words = re.findall(r'\w+', sentence_without_cjk)
+
+    # Merge all lists into a single array
+    all_characters = chinese_characters + korean_characters + japanese_characters + english_words
+
+    return all_characters
 # Function to count words by language
 def count_words_by_language(text):
     word_count_by_language = defaultdict(lambda: defaultdict(int))
 
     for sentence in text:
         # Regular expression pattern to match words including Chinese, Korean, Japanese characters, numbers, and phone numbers
-        words = re.findall(r"[\u4e00-\u9fff\uac00-\ud7a3\u3040-\u309f\u30a0-\u30ff\w']+|\b\d+\b", sentence)
+        words = separate_characters_and_words(sentence)
         for word in words:
             lang = detect_language(word)
             word_count_by_language[lang][word] += 1
@@ -77,12 +93,18 @@ text_list = text_column.tolist()
 
 word_counts = count_words_by_language(text_list)
 
-for lang, words in word_counts.items():
-    print(f"Language: {lang}")
-    total_words = sum(words.values())
-    print(f"Total Words: {total_words}")
-    print("Word Count:")
-    for word, count in words.items():
-        print(f"{word}: {count}")
-    print("\n")
+
+# Assuming word_counts is the dictionary containing language-wise word counts
+
+file_path = 'word_counts_output.txt'  # File path to save the output
+
+with open(file_path, 'w', encoding='utf-8') as file:
+    for lang, words in word_counts.items():
+        file.write(f"Language: {lang}\n")
+        total_words = sum(words.values())
+        file.write(f"Total Words: {total_words}\n")
+        file.write("Word Count:\n")
+        for word, count in words.items():
+            file.write(f"{word}: {count}\n")
+        file.write("\n")
 
