@@ -37,6 +37,7 @@ def detect_language(word):
     chinese_pattern = re.compile(r'[\u4e00-\u9fff]+')  # Chinese character range
     japanese_pattern = re.compile(r'[\u3040-\u30ff\u31f0-\u31ff\u3200-\u32ff]+')  # Japanese character range
     korean_pattern = re.compile(r'[\uac00-\ud7a3]+')  # Korean character range
+    number_pattern = re.compile(r'\b\d+\b')  # Matches whole numbers
 
     if re.match(chinese_pattern, word):
         return 'zh'
@@ -44,6 +45,8 @@ def detect_language(word):
         return 'ja'
     elif re.match(korean_pattern, word):
         return 'ko'
+    elif re.match(number_pattern, word):
+        return 'number'
     elif is_vietnamse_word(word):
         return 'vn'
     elif is_english_word(word):
