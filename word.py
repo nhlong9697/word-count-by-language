@@ -82,9 +82,25 @@ def count_words_by_language(text):
             word_count_by_language[lang][word] += 1
 
     return word_count_by_language
+def count_words(text):
+    word_count_by_order = {}
+    for sentence in text:
+        # Regular expression pattern to match words including Chinese, Korean, Japanese characters, numbers, and phone numbers
+        words = separate_characters_and_words(sentence)
+        for word in words:
+            lang = detect_language(word)
+            lower_word = word.lower()
+            if lower_word in word_count_by_order:
+                word_count_by_order[lower_word]['count'] +=1
+                word_count_by_order[lower_word]['lang'] = lang
+            else:
+                word_count_by_order[lower_word] = {'count':0,'lang':lang}
+    return word_count_by_order
+
+
 
 # Load the Excel file (assuming the text is in the first column)
-file_path = './signs-1.xlsx'
+file_path = './signs-2.xlsx'
 data = pd.read_excel(file_path)
 
 # Access the text from the first column
@@ -94,11 +110,13 @@ text_column = data.iloc[:, 0]
 text_list = text_column.tolist()
 
 word_counts = count_words_by_language(text_list)
+word_counts_order = count_words(text_list)
 
 
 # Assuming word_counts is the dictionary containing language-wise word counts
 
 file_path = 'word_counts_output.txt'  # File path to save the output
+count_order_path = 'word_order.txt'
 
 with open(file_path, 'w', encoding='utf-8') as file:
     for lang, words in word_counts.items():
@@ -109,4 +127,10 @@ with open(file_path, 'w', encoding='utf-8') as file:
         for word, count in words.items():
             file.write(f"{word}: {count}\n")
         file.write("\n")
+    file.close()
 
+with open(count_order_path, 'w', encoding='utf-8') as file:
+    for word, word_count in sorted(word_counts_order.items(), key=lambda k: k[1]['count']):
+        file.write(f"{word}: {word_count['count']} - {word_count['lang']}\n")
+        file.write("\n")
+    file.close()

@@ -1,0 +1,4640 @@
+tem: 0 - vn
+
+chơi: 0 - vn
+
+quà: 0 - vn
+
+tặng: 0 - vn
+
+philately: 0 - en
+
+stamp: 0 - en
+
+xuân: 0 - vn
+
+xuan: 0 - unknown
+
+vé: 0 - vn
+
+bến: 0 - vn
+
+bờ: 0 - vn
+
+bo: 0 - vn
+
+bus: 0 - en
+
+stall: 0 - en
+
+tham: 0 - vn
+
+quan: 0 - vn
+
+xung: 0 - vn
+
+quanh: 0 - vn
+
+visit: 0 - en
+
+quarter: 0 - en
+
+around: 0 - en
+
+người: 0 - vn
+
+dưới: 0 - vn
+
+tuổi: 0 - vn
+
+children: 0 - en
+
+under: 0 - en
+
+years: 0 - en
+
+hoạt: 0 - vn
+
+động: 0 - vn
+
+đến: 0 - vn
+
+3929: 0 - number
+
+0509: 0 - number
+
+4566: 0 - number
+
+dongxuantours: 0 - unknown
+
+gắn: 0 - vn
+
+high: 0 - en
+
+cương: 0 - vn
+
+testing: 0 - en
+
+department: 0 - en
+
+diamond: 0 - en
+
+gemstone: 0 - en
+
+89: 0 - number
+
+9892: 0 - number
+
+khl: 0 - unknown
+
+75b: 0 - unknown
+
+11063: 0 - number
+
+02439361616: 0 - number
+
+onebank: 0 - unknown
+
+365: 0 - number
+
+banking: 0 - en
+
+chạm: 0 - vn
+
+mọi: 0 - vn
+
+trải: 0 - vn
+
+nghiệm: 0 - vn
+
+crave: 0 - en
+
+0948938354: 0 - number
+
+hữu: 0 - vn
+
+lũng: 0 - vn
+
+lạng: 0 - vn
+
+vịt: 0 - vn
+
+khâu: 0 - vn
+
+nhục: 0 - vn
+
+heo: 0 - vn
+
+lạp: 0 - vn
+
+sườn: 0 - vn
+
+ngải: 0 - vn
+
+039: 0 - number
+
+477: 0 - number
+
+989: 0 - number
+
+thắng: 0 - vn
+
+0912612230: 0 - number
+
+958: 0 - number
+
+711: 0 - number
+
+9c: 0 - unknown
+
+8259996: 0 - number
+
+0913210452: 0 - number
+
+lynh: 0 - unknown
+
+smoothie: 0 - en
+
+queen: 0 - en
+
+0974889368: 0 - number
+
+exchange: 0 - en
+
+money: 0 - en
+
+laundry: 0 - en
+
+3g: 0 - unknown
+
+93: 0 - number
+
+trường: 0 - vn
+
+directorate: 0 - en
+
+market: 0 - en
+
+surveillance: 0 - en
+
+9395: 0 - number
+
+9393: 0 - number
+
+hagemco: 0 - unknown
+
+nghiên: 0 - vn
+
+cứu: 0 - vn
+
+kiểm: 0 - vn
+
+vgc: 0 - unknown
+
+research: 0 - en
+
+identification: 0 - en
+
+5418: 0 - number
+
+showroom: 0 - en
+
+pictures: 0 - en
+
+created: 0 - en
+
+gemstones: 0 - en
+
+bi: 0 - vn
+
+grillz: 0 - unknown
+
+2017: 0 - number
+
+tpbank: 0 - unknown
+
+vì: 0 - vn
+
+chúng: 0 - vn
+
+tôi: 0 - vn
+
+hiểu: 0 - vn
+
+bạn: 0 - vn
+
+livebank: 0 - unknown
+
+zhengxin: 0 - unknown
+
+steak: 0 - en
+
+0979: 0 - number
+
+151: 0 - number
+
+kphoto: 0 - unknown
+
+917: 0 - number
+
+299: 0 - number
+
+031: 0 - number
+
+貢: 0 - zh
+
+gong: 0 - en
+
+cha: 0 - vn
+
+cty: 0 - unknown
+
+gongcha: 0 - unknown
+
+mtv: 0 - en
+
+hat: 0 - en
+
+entertainment: 0 - en
+
+one: 0 - en
+
+member: 0 - en
+
+0306370914: 0 - number
+
+watch: 0 - en
+
+patisserie: 0 - en
+
+2010: 0 - number
+
+buying: 0 - en
+
+coins: 0 - en
+
+banknotes: 0 - en
+
+stamps: 0 - en
+
+covers: 0 - en
+
+postcards: 0 - en
+
+medals: 0 - en
+
+militaria: 0 - unknown
+
+lighters: 0 - en
+
+knives: 0 - en
+
+watches: 0 - en
+
+antiquities: 0 - en
+
+collectables: 0 - en
+
+17a: 0 - unknown
+
+luc: 0 - en
+
+thuy: 0 - unknown
+
+lounge: 0 - en
+
+39289897: 0 - number
+
+3681033: 0 - number
+
+cơm: 0 - vn
+
+360: 0 - number
+
+591: 0 - number
+
+メ: 0 - ja
+
+ナ: 0 - ja
+
+ド: 0 - ja
+
+フ: 0 - ja
+
+ェ: 0 - ja
+
+イ: 0 - ja
+
+シ: 0 - ja
+
+ャ: 0 - ja
+
+ル: 0 - ja
+
+サ: 0 - ja
+
+ン: 0 - ja
+
+1959: 0 - number
+
+facial: 0 - en
+
+trade: 0 - en
+
+yutang: 0 - unknown
+
+noodle: 0 - en
+
+chixmax: 0 - unknown
+
+no6: 0 - unknown
+
+606: 0 - number
+
+baovietbank: 0 - unknown
+
+55: 0 - number
+
+88: 0 - number
+
+securities: 0 - en
+
+khoán: 0 - vn
+
+note: 0 - en
+
+km: 0 - en
+
+0: 0 - number
+
+thenote: 0 - unknown
+
+espresso: 0 - en
+
+cappuccino: 0 - en
+
+smoothies: 0 - en
+
+cakes: 0 - en
+
+snacks: 0 - en
+
+airconditioner: 0 - unknown
+
+floors: 0 - en
+
+0902194077: 0 - number
+
+323: 0 - number
+
+7773: 0 - number
+
+11057: 0 - number
+
+38246161: 0 - number
+
+30k: 0 - unknown
+
+6465: 0 - number
+
+628: 0 - number
+
+fm: 0 - en
+
+pub: 0 - en
+
+sushi: 0 - en
+
+away: 0 - en
+
+häagen: 0 - unknown
+
+haagen: 0 - unknown
+
+inn: 0 - en
+
+saigon: 0 - en
+
+7309: 0 - number
+
+7099: 0 - number
+
+village: 0 - en
+
+restaurants: 0 - en
+
+4th: 0 - en
+
+文: 0 - zh
+
+華: 0 - zh
+
+廳: 0 - zh
+
+manwah: 0 - unknown
+
+taiwanese: 0 - en
+
+hotpot: 0 - en
+
+laika: 0 - unknown
+
+vua: 0 - vn
+
+chả: 0 - vn
+
+1930: 0 - number
+
+tiger: 0 - en
+
+crystal: 0 - en
+
+aldo: 0 - en
+
+khát: 0 - vn
+
+sắn: 0 - vn
+
+quất: 0 - vn
+
+me: 0 - vn
+
+sấu: 0 - vn
+
+bia: 0 - vn
+
+ngọt: 0 - vn
+
+thọ: 0 - vn
+
+0065: 0 - number
+
+0913218: 0 - number
+
+930: 0 - number
+
+kemkepsingapore: 0 - unknown
+
+kemkepsingaporetasty: 0 - unknown
+
+0987646151: 0 - number
+
+cam: 0 - vn
+
+chuẩn: 0 - vn
+
+coffeon: 0 - unknown
+
+gotta: 0 - en
+
+catch: 0 - en
+
+on: 0 - en
+
+right: 0 - en
+
+2020: 0 - number
+
+hawker: 0 - en
+
+smartphone: 0 - unknown
+
+repair: 0 - en
+
+5g: 0 - unknown
+
+044: 0 - number
+
+078: 0 - number
+
+mbakes: 0 - unknown
+
+0943: 0 - number
+
+495: 0 - number
+
+fu: 0 - en
+
+rong: 0 - vn
+
+hua: 0 - vn
+
+05: 0 - number
+
+0906269982: 0 - number
+
+kem2cream: 0 - unknown
+
+chocolatier: 0 - en
+
+time: 0 - en
+
+singing: 0 - en
+
+locally: 0 - en
+
+olong: 0 - unknown
+
+453: 0 - number
+
+1303: 0 - number
+
+trungcoffee: 0 - unknown
+
+elizabeth: 0 - en
+
+galery: 0 - unknown
+
+duong: 0 - en
+
+truong: 0 - en
+
+ltd: 0 - en
+
+chào: 0 - vn
+
+welcome: 0 - en
+
+tropicana: 0 - unknown
+
+0974: 0 - number
+
+889: 0 - number
+
+nhi: 0 - vn
+
+weasal: 0 - unknown
+
+lat: 0 - en
+
+moka: 0 - fr
+
+273: 0 - number
+
+6382: 0 - number
+
+luonganhnhi19042007: 0 - unknown
+
+xích: 0 - vn
+
+sausage: 0 - en
+
+dried: 0 - en
+
+beef: 0 - en
+
+thập: 0 - vn
+
+cẩm: 0 - vn
+
+mixed: 0 - en
+
+lọc: 0 - vn
+
+tapioca: 0 - en
+
+dumpling: 0 - en
+
+lá: 0 - vn
+
+ổi: 0 - vn
+
+fermented: 0 - en
+
+fries: 0 - en
+
+sốt: 0 - vn
+
+sauce: 0 - en
+
+cút: 0 - vn
+
+quail: 0 - en
+
+phô: 0 - vn
+
+nuggets: 0 - en
+
+0968968696: 0 - number
+
+03390905725: 0 - number
+
+sôcôla: 0 - unknown
+
+abricot: 0 - en
+
+sầu: 0 - vn
+
+riêng: 0 - vn
+
+durian: 0 - en
+
+mè: 0 - vn
+
+đen: 0 - vn
+
+black: 0 - en
+
+sesame: 0 - en
+
+ốc: 0 - vn
+
+cocoa: 0 - en
+
+hộp: 0 - vn
+
+box: 0 - en
+
+confectionery: 0 - en
+
+984: 0 - number
+
+vietbook: 0 - unknown
+
+poster: 0 - en
+
+artbook: 0 - unknown
+
+ginko: 0 - unknown
+
+shirts: 0 - en
+
+ogival: 0 - en
+
+swiss: 0 - en
+
+鼎: 0 - zh
+
+đài: 0 - vn
+
+múa: 0 - vn
+
+rối: 0 - vn
+
+water: 0 - en
+
+puppet: 0 - en
+
+theatre: 0 - en
+
+fruit: 0 - en
+
+juices: 0 - en
+
+076: 0 - number
+
+19991: 0 - number
+
+healthy: 0 - en
+
+herbalist: 0 - en
+
+leather: 0 - en
+
+3201: 0 - number
+
+3133: 0 - number
+
+side: 0 - en
+
+258: 0 - number
+
+thìn: 0 - vn
+
+hungthinh99: 0 - unknown
+
+94: 0 - number
+
+36241858: 0 - number
+
+09827178: 0 - number
+
+helio: 0 - en
+
+xing: 0 - en
+
+khang: 0 - vn
+
+export: 0 - en
+
+postmart: 0 - unknown
+
+bách: 0 - vn
+
+tiện: 0 - vn
+
+gần: 0 - vn
+
+1976: 0 - number
+
+高: 0 - zh
+
+品: 0 - zh
+
+質: 0 - zh
+
+至: 0 - zh
+
+福: 0 - zh
+
+時: 0 - zh
+
+な: 0 - ja
+
+コ: 0 - ja
+
+ヒ: 0 - ja
+
+の: 0 - ja
+
+ひ: 0 - ja
+
+を: 0 - ja
+
+ど: 0 - ja
+
+う: 0 - ja
+
+ぞ: 0 - ja
+
+kohibito: 0 - unknown
+
+daily: 0 - en
+
+0438257453: 0 - number
+
+softfit: 0 - unknown
+
+creating: 0 - en
+
+curves: 0 - en
+
+bidv: 0 - unknown
+
+1957: 0 - number
+
+tư: 0 - vn
+
+pgd: 0 - unknown
+
+19009247: 0 - number
+
+4451: 0 - number
+
+huyhoangbook: 0 - unknown
+
+mayfair: 0 - en
+
+coworking: 0 - en
+
+building: 0 - en
+
+faubourg: 0 - en
+
+ama: 0 - en
+
+scoops: 0 - en
+
+aha: 0 - en
+
+endless: 0 - en
+
+devialet: 0 - unknown
+
+ingénierie: 0 - fr
+
+acoustique: 0 - fr
+
+bodega: 0 - en
+
+đệ: 0 - vn
+
+bô: 0 - vn
+
+đê: 0 - vn
+
+3489: 0 - number
+
+7787: 0 - number
+
+kitsuné: 0 - unknown
+
+association: 0 - en
+
+kiềm: 0 - vn
+
+38257857: 0 - number
+
+guom: 0 - unknown
+
+ship: 0 - en
+
+givral: 0 - unknown
+
+8256: 0 - number
+
+115: 0 - number
+
+nghe: 0 - vn
+
+phuong: 0 - unknown
+
+swatch: 0 - en
+
+clock: 0 - en
+
+470: 0 - number
+
+675: 0 - number
+
+thùy: 0 - vn
+
+0160: 0 - number
+
+tocotoco: 0 - unknown
+
+taco: 0 - en
+
+delivery: 0 - en
+
+1900636936: 0 - number
+
+daiphong: 0 - unknown
+
+lĩnh: 0 - vn
+
+vực: 0 - vn
+
+music: 0 - en
+
+tech: 0 - en
+
+tụ: 0 - vn
+
+đẳng: 0 - vn
+
+digi: 0 - unknown
+
+nét: 0 - vn
+
+lòng: 0 - vn
+
+poke: 0 - en
+
+jillian: 0 - en
+
+switzerland: 0 - en
+
+cung: 0 - vn
+
+đình: 0 - vn
+
+dress: 0 - en
+
+atc: 0 - en
+
+khí: 0 - vn
+
+của: 0 - vn
+
+trời: 0 - vn
+
+đất: 0 - vn
+
+0886: 0 - number
+
+199: 0 - number
+
+686: 0 - number
+
+piercing: 0 - en
+
+ink: 0 - en
+
+biên: 0 - vn
+
+4871: 0 - number
+
+fugashin: 0 - unknown
+
+signature: 0 - en
+
+express: 0 - en
+
+matto: 0 - unknown
+
+sả: 0 - vn
+
+ớt: 0 - vn
+
+mobi: 0 - unknown
+
+5025: 0 - number
+
+sinfonía: 0 - unknown
+
+del: 0 - en
+
+9343461: 0 - number
+
+sculpture: 0 - en
+
+tuhu: 0 - unknown
+
+hanna: 0 - en
+
+shoes: 0 - en
+
+0936362282: 0 - number
+
+vào: 0 - vn
+
+ngỏ: 0 - vn
+
+đi: 0 - vn
+
+10m: 0 - unknown
+
+5787: 0 - number
+
+1984: 0 - number
+
+phi: 0 - vn
+
+media: 0 - en
+
+quỹ: 0 - vn
+
+thuận: 0 - vn
+
+39264509: 0 - number
+
+39264510: 0 - number
+
+amorita: 0 - en
+
+tunger: 0 - unknown
+
+premium: 0 - en
+
+3930: 0 - number
+
+0555: 0 - number
+
+hm: 0 - en
+
+0835: 0 - number
+
+116: 0 - number
+
+banhmilonghoi: 0 - unknown
+
+2639: 0 - number
+
+502054: 0 - number
+
+8242: 0 - number
+
+sneaker: 0 - en
+
+nk: 0 - unknown
+
+85: 0 - number
+
+0746: 0 - number
+
+uyên: 0 - vn
+
+sô: 0 - vn
+
+3923: 0 - number
+
+1284: 0 - number
+
+3826699: 0 - number
+
+estheva: 0 - unknown
+
+romio: 0 - unknown
+
+vape: 0 - fr
+
+086: 0 - number
+
+3411193: 0 - number
+
+2103434: 0 - number
+
+làgi: 0 - unknown
+
+clothing: 0 - en
+
+giày: 0 - vn
+
+lô: 0 - vn
+
+2214: 0 - number
+
+4200: 0 - number
+
+tnhhdv: 0 - unknown
+
+hình: 0 - vn
+
+868: 0 - number
+
+379: 0 - number
+
+craft: 0 - en
+
+homebrew: 0 - en
+
+0368: 0 - number
+
+428: 0 - number
+
+198: 0 - number
+
+dài: 0 - vn
+
+oz: 0 - en
+
+luu: 0 - unknown
+
+19k: 0 - unknown
+
+te: 0 - vn
+
+amo: 0 - en
+
+hot: 0 - en
+
+line: 0 - en
+
+1900633370: 0 - number
+
+super: 0 - en
+
+ita: 0 - en
+
+mouye: 0 - unknown
+
+54a: 0 - unknown
+
+39264379: 0 - number
+
+56: 0 - number
+
+j: 0 - en
+
+adore: 0 - en
+
+eyelash: 0 - en
+
+0333: 0 - number
+
+997: 0 - number
+
+vượng: 0 - vn
+
+068: 0 - number
+
+sky: 0 - en
+
+luggage: 0 - en
+
+hq: 0 - en
+
+luggages: 0 - en
+
+824: 0 - number
+
+9527: 0 - number
+
+0901: 0 - number
+
+722: 0 - number
+
+525: 0 - number
+
+valicaptui: 0 - unknown
+
+aroma: 0 - en
+
+spice: 0 - en
+
+dry: 0 - en
+
+fruits: 0 - en
+
+nut: 0 - en
+
+herbal: 0 - en
+
+0977: 0 - number
+
+281: 0 - number
+
+382: 0 - number
+
+945: 0 - number
+
+0968: 0 - number
+
+968: 0 - number
+
+đồ: 0 - vn
+
+0338662157: 0 - number
+
+0363018789: 0 - number
+
+quế: 0 - vn
+
+nha: 0 - vn
+
+gốc: 0 - vn
+
+038: 0 - number
+
+742: 0 - number
+
+9042: 0 - number
+
+2115448: 0 - number
+
+中: 0 - zh
+
+国: 0 - zh
+
+牛: 0 - zh
+
+肉: 0 - zh
+
+干: 0 - zh
+
+kho: 0 - vn
+
+đặt: 0 - vn
+
+liên: 0 - vn
+
+0904656708: 0 - number
+
+đc1: 0 - unknown
+
+đc2: 0 - unknown
+
+tep: 0 - unknown
+
+sạch: 0 - vn
+
+23a: 0 - unknown
+
+0984: 0 - number
+
+919: 0 - number
+
+838: 0 - number
+
+tập: 0 - vn
+
+đoàn: 0 - vn
+
+vinapro: 0 - unknown
+
+richer: 0 - en
+
+1770: 0 - number
+
+nhat: 0 - unknown
+
+361: 0 - number
+
+6831: 0 - number
+
+033: 0 - number
+
+2157: 0 - number
+
+vietinbank: 0 - unknown
+
+vòng: 0 - vn
+
+tròn: 0 - vn
+
+đỏ: 0 - vn
+
+bạc: 0 - vn
+
+9489: 0 - number
+
+trân: 0 - vn
+
+0842: 0 - number
+
+3939: 0 - number
+
+lotteria: 0 - unknown
+
+6778: 0 - number
+
+owndays: 0 - unknown
+
+levi: 0 - en
+
+soul: 0 - en
+
+8541: 0 - number
+
+hanoisoulcafe: 0 - unknown
+
+vertu: 0 - en
+
+hsbc: 0 - unknown
+
+tạ: 0 - vn
+
+xưa: 0 - vn
+
+cảm: 0 - vn
+
+recipes: 0 - en
+
+new: 0 - en
+
+inspirations: 0 - en
+
+0858822666: 0 - number
+
+digital: 0 - en
+
+hub: 0 - en
+
+lục: 0 - vn
+
+toserco: 0 - unknown
+
+charles: 0 - en
+
+keith: 0 - en
+
+mã: 0 - vn
+
+pin: 0 - vn
+
+change: 0 - en
+
+battery: 0 - en
+
+serviced: 0 - en
+
+homestay: 0 - en
+
+0768346866: 0 - number
+
+0963161121: 0 - number
+
+page: 0 - en
+
+ctrlsby1996: 0 - unknown
+
+cartier: 0 - en
+
+fred: 0 - en
+
+dupont: 0 - en
+
+92: 0 - number
+
+bốn: 0 - vn
+
+mùa: 0 - vn
+
+four: 0 - en
+
+seasons: 0 - en
+
+ユ: 0 - ja
+
+ニ: 0 - ja
+
+ク: 0 - ja
+
+uniqlo: 0 - unknown
+
+mixue: 0 - unknown
+
+ccream: 0 - unknown
+
+màu: 0 - vn
+
+02438240589: 0 - number
+
+hộ: 0 - vn
+
+chiếu: 0 - vn
+
+phóng: 0 - vn
+
+tracy: 0 - en
+
+path: 0 - en
+
+autumn: 0 - en
+
+specialife: 0 - unknown
+
+oil: 0 - en
+
+picture: 0 - en
+
+brocade: 0 - en
+
+bronge: 0 - unknown
+
+38264907: 0 - number
+
+mobil: 0 - en
+
+0936407673: 0 - number
+
+jewellery: 0 - en
+
+hôm: 0 - vn
+
+1989: 0 - number
+
+tunzao: 0 - unknown
+
+ooo7: 0 - unknown
+
+mcdonald: 0 - en
+
+mc: 0 - en
+
+đvth: 0 - unknown
+
+hospitality: 0 - en
+
+shopdunk: 0 - unknown
+
+980: 0 - number
+
+8266029: 0 - number
+
+ishop: 0 - unknown
+
+abbank: 0 - unknown
+
+tinh: 0 - vn
+
+6686: 0 - number
+
+0489: 0 - number
+
+mixology: 0 - en
+
+brggolf: 0 - unknown
+
+clubhouse: 0 - en
+
+bac: 0 - en
+
+alpha: 0 - en
+
+marc: 0 - en
+
+jacobs: 0 - en
+
+sandro: 0 - en
+
+longchamp: 0 - unknown
+
+maje: 0 - en
+
+bang: 0 - vn
+
+olufsen: 0 - unknown
+
+callcentre: 0 - unknown
+
+555: 0 - number
+
+587: 0 - number
+
+cấn: 0 - vn
+
+0033: 0 - number
+
+intienhung: 0 - unknown
+
+nhanh: 0 - vn
+
+0914: 0 - number
+
+127: 0 - number
+
+589: 0 - number
+
+3751: 0 - number
+
+hanoioptic: 0 - unknown
+
+4p: 0 - unknown
+
+vượt: 0 - vn
+
+kịch: 0 - vn
+
+red: 0 - en
+
+moon: 0 - en
+
+39342531: 0 - number
+
+thaiopera: 0 - unknown
+
+phồ: 0 - vn
+
+ngô: 0 - vn
+
+biệt: 0 - vn
+
+ướp: 0 - vn
+
+nhài: 0 - vn
+
+nhiệm: 0 - vn
+
+lâu: 0 - vn
+
+nguyệt: 0 - vn
+
+0972681484: 0 - number
+
+attic: 0 - en
+
+wine: 0 - en
+
+lab: 0 - en
+
+mẫu: 0 - vn
+
+kế: 0 - vn
+
+photocopy: 0 - en
+
+siêu: 0 - vn
+
+tốc: 0 - vn
+
+tết: 0 - vn
+
+bloc: 0 - en
+
+xo: 0 - vn
+
+sổ: 0 - vn
+
+nguyenxi02: 0 - unknown
+
+sơ: 0 - vn
+
+đơn: 0 - vn
+
+order: 0 - en
+
+catalogue: 0 - en
+
+tờ: 0 - vn
+
+rơi: 0 - vn
+
+khắc: 0 - vn
+
+dấu: 0 - vn
+
+liền: 0 - vn
+
+mực: 0 - vn
+
+9370: 0 - number
+
+mụ: 0 - vn
+
+đậm: 0 - vn
+
+đà: 0 - vn
+
+thống: 0 - vn
+
+032: 0 - number
+
+946: 0 - number
+
+3555: 0 - number
+
+lethachquanhn: 0 - unknown
+
+lethachquan: 0 - unknown
+
+vnpt: 0 - unknown
+
+vinaphone: 0 - unknown
+
+chautfifth: 0 - unknown
+
+141: 0 - number
+
+bọc: 0 - vn
+
+vespa: 0 - en
+
+lx: 0 - en
+
+liberty: 0 - en
+
+hơi: 0 - vn
+
+có: 0 - vn
+
+chíp: 0 - vn
+
+ô: 0 - vn
+
+tô: 0 - vn
+
+thẻ: 0 - vn
+
+cầu: 0 - vn
+
+két: 0 - vn
+
+sắt: 0 - vn
+
+trọn: 0 - vn
+
+gói: 0 - vn
+
+tráp: 0 - vn
+
+phông: 0 - vn
+
+bạt: 0 - vn
+
+ghế: 0 - vn
+
+4241: 0 - number
+
+492: 0 - number
+
+168: 0 - number
+
+gu: 0 - vn
+
+uống: 0 - vn
+
+63a: 0 - unknown
+
+344: 0 - number
+
+776: 0 - number
+
+875: 0 - number
+
+69c: 0 - unknown
+
+0898: 0 - number
+
+0899: 0 - number
+
+phận: 0 - vn
+
+trả: 0 - vn
+
+3083: 0 - number
+
+chung: 0 - vn
+
+31a: 0 - unknown
+
+0123: 0 - number
+
+512: 0 - number
+
+dat: 0 - en
+
+pc: 0 - en
+
+hoankiem: 0 - unknown
+
+đội: 0 - vn
+
+dụng: 0 - vn
+
+fashionshop: 0 - unknown
+
+1234: 0 - number
+
+38266990: 0 - number
+
+ủy: 0 - vn
+
+nặng: 0 - vn
+
+vali: 0 - en
+
+1394: 0 - number
+
+nốt: 0 - vn
+
+53: 0 - number
+
+tu: 0 - vn
+
+0969: 0 - number
+
+054: 0 - number
+
+529: 0 - number
+
+10h: 0 - unknown
+
+19h: 0 - unknown
+
+đời: 0 - vn
+
+cũ: 0 - vn
+
+second: 0 - en
+
+hand: 0 - en
+
+thế: 0 - vn
+
+019: 0 - number
+
+486: 0 - number
+
+36: 0 - number
+
+1963: 0 - number
+
+tiệm: 0 - vn
+
+lắp: 0 - vn
+
+ráp: 0 - vn
+
+cận: 0 - vn
+
+viễn: 0 - vn
+
+loạn: 0 - vn
+
+áp: 0 - vn
+
+contact: 0 - en
+
+lenses: 0 - en
+
+single: 0 - en
+
+vision: 0 - en
+
+bifocals: 0 - en
+
+photochromic: 0 - en
+
+lens: 0 - en
+
+tòng: 0 - vn
+
+model: 0 - en
+
+luân: 0 - vn
+
+246428: 0 - number
+
+bm: 0 - en
+
+mode: 0 - en
+
+8288247: 0 - number
+
+9286967: 0 - number
+
+luong: 0 - unknown
+
+van: 0 - vn
+
+944: 0 - number
+
+2255: 0 - number
+
+3399: 0 - number
+
+1722: 0 - number
+
+kimtravelhanoi: 0 - unknown
+
+kimtravel: 0 - unknown
+
+miss: 0 - en
+
+recommended: 0 - en
+
+thailand: 0 - en
+
+learn: 0 - en
+
+share: 0 - en
+
+fun: 0 - en
+
+lệ: 0 - vn
+
+815: 0 - number
+
+292: 0 - number
+
+vĩ: 0 - vn
+
+302: 0 - number
+
+186: 0 - number
+
+titan: 0 - en
+
+557: 0 - number
+
+8689: 0 - number
+
+088: 0 - number
+
+449: 0 - number
+
+84944549669: 0 - number
+
+hotels: 0 - en
+
+esalen: 0 - unknown
+
+massage: 0 - en
+
+nourishing: 0 - en
+
+0866: 0 - number
+
+720: 0 - number
+
+458: 0 - number
+
+ms: 0 - en
+
+cloud: 0 - en
+
+agency: 0 - en
+
+022: 0 - number
+
+987: 0 - number
+
+splendid: 0 - en
+
+shb: 0 - unknown
+
+đối: 0 - vn
+
+cậy: 0 - vn
+
+phù: 0 - vn
+
+sài: 0 - vn
+
+gòn: 0 - vn
+
+morning: 0 - en
+
+manh: 0 - vn
+
+outlet: 0 - en
+
+xuyến: 0 - vn
+
+6246: 0 - number
+
+0888: 0 - number
+
+007: 0 - number
+
+mandarina: 0 - unknown
+
+lakeside: 0 - en
+
+cs1: 0 - unknown
+
+cs2: 0 - unknown
+
+vũ: 0 - vn
+
+noodles: 0 - en
+
+0905: 0 - number
+
+99: 0 - number
+
+6688: 0 - number
+
+packages: 0 - en
+
+trekking: 0 - en
+
+loop: 0 - en
+
+gioc: 0 - unknown
+
+hagiangopentour: 0 - unknown
+
+en: 0 - vn
+
+39939678: 0 - number
+
+575: 0 - number
+
+salehagiangopentours: 0 - unknown
+
+mobifone: 0 - unknown
+
+079645: 0 - number
+
+holiday: 0 - en
+
+304: 0 - number
+
+305: 0 - number
+
+mon: 0 - vn
+
+desire: 0 - en
+
+mọc: 0 - vn
+
+đỉnh: 0 - vn
+
+39289368: 0 - number
+
+prefer: 0 - en
+
+mastercard: 0 - unknown
+
+suzi: 0 - en
+
+way: 0 - en
+
+life: 0 - en
+
+454: 0 - number
+
+9669: 0 - number
+
+0387: 0 - number
+
+7555: 0 - number
+
+artisan: 0 - en
+
+asia: 0 - en
+
+nature: 0 - en
+
+obligation: 0 - en
+
+quote: 0 - en
+
+master: 0 - en
+
+trip: 0 - en
+
+advisor: 0 - en
+
+8286316: 0 - number
+
+asianaturetravel: 0 - unknown
+
+096: 0 - number
+
+1143: 0 - number
+
+899: 0 - number
+
+san: 0 - vn
+
+dưỡng: 0 - vn
+
+4567: 0 - number
+
+973: 0 - number
+
+tưa: 0 - vn
+
+trớ: 0 - vn
+
+point: 0 - en
+
+1995: 0 - number
+
+relaxation: 0 - en
+
+health: 0 - en
+
+0877: 0 - number
+
+102: 0 - number
+
+708: 0 - number
+
+0949: 0 - number
+
+528: 0 - number
+
+bond: 0 - en
+
+súp: 0 - vn
+
+shiper: 0 - unknown
+
+0965: 0 - number
+
+1600: 0 - number
+
+imperial: 0 - en
+
+hanoiimperialhotel: 0 - unknown
+
+creative: 0 - en
+
+urban: 0 - en
+
+oasis: 0 - en
+
+cruise: 0 - en
+
+operator: 0 - en
+
+39b: 0 - unknown
+
+943: 0 - number
+
+887: 0 - number
+
+vietnamtravelservice: 0 - unknown
+
+hanoitour: 0 - unknown
+
+39c: 0 - unknown
+
+1946: 0 - number
+
+sunline: 0 - unknown
+
+are: 0 - en
+
+choice: 0 - en
+
+39d: 0 - unknown
+
+932: 0 - number
+
+9191: 0 - number
+
+greenhouse: 0 - en
+
+dal: 0 - en
+
+vostro: 0 - unknown
+
+valentino: 0 - en
+
+diệp: 0 - vn
+
+0374: 0 - number
+
+794: 0 - number
+
+600: 0 - number
+
+kopi: 0 - en
+
+luwak: 0 - unknown
+
+safe: 0 - en
+
+place: 0 - en
+
+leo: 0 - vn
+
+tavern: 0 - en
+
+trúc: 0 - vn
+
+agarwood: 0 - unknown
+
+0903254999: 0 - number
+
+4374716: 0 - number
+
+tramtue: 0 - unknown
+
+london: 0 - en
+
+supermarket: 0 - en
+
+gentlemen: 0 - en
+
+polite: 0 - en
+
+0968849606: 0 - number
+
+5b: 0 - unknown
+
+pearl: 0 - en
+
+repairing: 0 - en
+
+3b: 0 - unknown
+
+0466736646: 0 - number
+
+0904251189: 0 - number
+
+panasonic: 0 - unknown
+
+sony: 0 - en
+
+nikon: 0 - en
+
+canon: 0 - en
+
+sogreen: 0 - unknown
+
+cold: 0 - en
+
+pressed: 0 - en
+
+formerly: 0 - en
+
+well: 0 - en
+
+known: 0 - en
+
+as: 0 - en
+
+2019: 0 - number
+
+sapatravel: 0 - unknown
+
+78759033: 0 - number
+
+mistwalker: 0 - unknown
+
+ngoc: 0 - unknown
+
+2a: 0 - unknown
+
+3a: 0 - unknown
+
+0907068437: 0 - number
+
+0936: 0 - number
+
+957: 0 - number
+
+049: 0 - number
+
+chef: 0 - en
+
+góc: 0 - vn
+
+sông: 0 - vn
+
+hồng: 0 - vn
+
+0108486709: 0 - number
+
+3502335: 0 - number
+
+dulichthesinhtourist: 0 - unknown
+
+nort: 0 - unknown
+
+14a: 0 - unknown
+
+0983342242: 0 - number
+
+0906199816: 0 - number
+
+điển: 0 - vn
+
+khăn: 0 - vn
+
+chầu: 0 - vn
+
+ngự: 0 - vn
+
+0989661638: 0 - number
+
+09888: 0 - number
+
+confetti: 0 - en
+
+kafe: 0 - unknown
+
+orient: 0 - en
+
+nails: 0 - en
+
+huyền: 0 - vn
+
+mias: 0 - en
+
+cooking: 0 - en
+
+class: 0 - en
+
+solaria: 0 - en
+
+489: 0 - number
+
+455: 0 - number
+
+granny: 0 - en
+
+prices: 0 - en
+
+90: 0 - number
+
+9h: 0 - unknown
+
+23h: 0 - unknown
+
+967: 0 - number
+
+564: 0 - number
+
+sx: 0 - en
+
+cờ: 0 - vn
+
+big: 0 - en
+
+phép: 0 - vn
+
+0103015066: 0 - number
+
+9199: 0 - number
+
+207: 0 - number
+
+213: 0 - number
+
+297: 0 - number
+
+huythong667: 0 - unknown
+
+vietnamairlines: 0 - unknown
+
+967252894: 0 - number
+
+836798299: 0 - number
+
+tiredcity: 0 - unknown
+
+ht: 0 - en
+
+524: 0 - number
+
+456: 0 - number
+
+5495: 0 - number
+
+nhãn: 0 - vn
+
+67a: 0 - unknown
+
+303: 0 - number
+
+8282: 0 - number
+
+67b: 0 - unknown
+
+sang: 0 - vn
+
+cách: 0 - vn
+
+5m: 0 - unknown
+
+sol: 0 - en
+
+65: 0 - number
+
+brg: 0 - en
+
+cuộc: 0 - vn
+
+sống: 0 - vn
+
+arabican: 0 - unknown
+
+fresh: 0 - en
+
+010: 0 - number
+
+787: 0 - number
+
+345: 0 - number
+
+trịnh: 0 - vn
+
+ký: 0 - vn
+
+gửi: 0 - vn
+
+257: 0 - number
+
+quyen: 0 - unknown
+
+scarves: 0 - en
+
+59: 0 - number
+
+84834231987: 0 - number
+
+kiên: 0 - vn
+
+andré: 0 - unknown
+
+sauvageot: 0 - unknown
+
+foot: 0 - en
+
+body: 0 - en
+
+skin: 0 - en
+
+artgallery: 0 - unknown
+
+cartgallery: 0 - unknown
+
+904: 0 - number
+
+665: 0 - number
+
+894: 0 - number
+
+dv: 0 - en
+
+make: 0 - en
+
+vacation: 0 - en
+
+memorable: 0 - en
+
+độc: 0 - vn
+
+palmy: 0 - en
+
+resort: 0 - en
+
+0828637066: 0 - number
+
+lienthang: 0 - unknown
+
+39287551: 0 - number
+
+49th: 0 - unknown
+
+root: 0 - en
+
+clothes: 0 - en
+
+494: 0 - number
+
+8998: 0 - number
+
+táo: 0 - vn
+
+321: 0 - number
+
+748: 0 - number
+
+maika: 0 - unknown
+
+oanh: 0 - vn
+
+070: 0 - number
+
+6668: 0 - number
+
+0382414664: 0 - number
+
+43: 0 - number
+
+0982: 0 - number
+
+052: 0 - number
+
+617: 0 - number
+
+kana: 0 - en
+
+lac: 0 - en
+
+8286973: 0 - number
+
+mẹt: 0 - vn
+
+627: 0 - number
+
+976: 0 - number
+
+0334: 0 - number
+
+782: 0 - number
+
+290: 0 - number
+
+hapro: 0 - unknown
+
+301: 0 - number
+
+110: 0 - number
+
+9999: 0 - number
+
+sinhcafe: 0 - unknown
+
+lam: 0 - vn
+
+683: 0 - number
+
+3338: 0 - number
+
+duc: 0 - en
+
+bà: 0 - vn
+
+trần: 0 - vn
+
+thức: 0 - vn
+
+sáng: 0 - vn
+
+lập: 0 - vn
+
+8243362: 0 - number
+
+hoi: 0 - vn
+
+3828: 0 - number
+
+873: 0 - number
+
+thewarehouse: 0 - unknown
+
+3928: 0 - number
+
+7666: 0 - number
+
+biến: 0 - vn
+
+deli: 0 - en
+
+vissan: 0 - unknown
+
+0757: 0 - number
+
+0913: 0 - number
+
+522: 0 - number
+
+725: 0 - number
+
+588: 0 - number
+
+933: 0 - number
+
+6285: 0 - number
+
+hi: 0 - vn
+
+arts: 0 - en
+
+x: 0 - vn
+
+rt: 0 - en
+
+079: 0 - number
+
+6164334: 0 - number
+
+xquisite: 0 - unknown
+
+7216: 0 - number
+
+exquisite1999: 0 - unknown
+
+drinks: 0 - en
+
+sandwich: 0 - en
+
+lộc: 0 - vn
+
+nầm: 0 - vn
+
+468: 0 - number
+
+3661: 0 - number
+
+cả: 0 - vn
+
+959: 0 - number
+
+1111: 0 - number
+
+tradition: 0 - en
+
+8a: 0 - unknown
+
+9287950: 0 - number
+
+0982912528: 0 - number
+
+phuonganh8aht: 0 - unknown
+
+cúc: 0 - vn
+
+0915553236: 0 - number
+
+8288: 0 - number
+
+036: 0 - number
+
+timeline: 0 - unknown
+
+451: 0 - number
+
+2033: 0 - number
+
+cường: 0 - vn
+
+mắn: 0 - vn
+
+lucky: 0 - en
+
+amour: 0 - en
+
+interior: 0 - en
+
+homewares: 0 - unknown
+
+giftwares: 0 - unknown
+
+640: 0 - number
+
+988: 0 - number
+
+anamourinterior: 0 - unknown
+
+kashi: 0 - en
+
+8243: 0 - number
+
+777: 0 - number
+
+viinriic: 0 - unknown
+
+niche: 0 - en
+
+cerender: 0 - unknown
+
+jork: 0 - unknown
+
+pap: 0 - en
+
+2014: 0 - number
+
+feel: 0 - en
+
+giáo: 0 - vn
+
+dục: 0 - vn
+
+thường: 0 - vn
+
+xuyên: 0 - vn
+
+plan: 0 - en
+
+kids: 0 - en
+
+tiến: 0 - vn
+
+dũng: 0 - vn
+
+8288208: 0 - number
+
+9287848: 0 - number
+
+e: 0 - vn
+
+mynghetd: 0 - unknown
+
+fpt: 0 - unknown
+
+kidsandstone: 0 - unknown
+
+mercury: 0 - en
+
+15h00: 0 - unknown
+
+23h00: 0 - unknown
+
+01632106746: 0 - number
+
+airashi: 0 - unknown
+
+0945452878: 0 - number
+
+hoarient: 0 - unknown
+
+asian: 0 - en
+
+fragrance: 0 - en
+
+treasury: 0 - en
+
+40: 0 - number
+
+spas: 0 - en
+
+0972: 0 - number
+
+26: 0 - number
+
+brilliant: 0 - en
+
+lyn: 0 - en
+
+0829: 0 - number
+
+86: 0 - number
+
+6886: 0 - number
+
+á: 0 - vn
+
+color: 0 - en
+
+hemp: 0 - en
+
+indigo: 0 - en
+
+batik: 0 - en
+
+support: 0 - en
+
+0986138831: 0 - number
+
+sally: 0 - en
+
+bui: 0 - en
+
+phun: 0 - vn
+
+phẫu: 0 - vn
+
+0983220891: 0 - number
+
+hienbui: 0 - unknown
+
+sallybui: 0 - unknown
+
+大: 0 - zh
+
+mộc: 0 - vn
+
+tramhuongmoc: 0 - unknown
+
+nap: 0 - en
+
+cocktails: 0 - en
+
+hien: 0 - unknown
+
+designer: 0 - en
+
+wholesaler: 0 - en
+
+retailer: 0 - en
+
+royalsilk: 0 - unknown
+
+59hangtrong: 0 - unknown
+
+number: 0 - en
+
+5555: 0 - number
+
+171: 0 - number
+
+vegan: 0 - en
+
+0378: 0 - number
+
+233: 0 - number
+
+113: 0 - number
+
+sunshine: 0 - en
+
+villa: 0 - en
+
+39386728: 0 - number
+
+uy: 0 - vn
+
+lượng: 0 - vn
+
+3266: 0 - number
+
+8351: 0 - number
+
+lv: 0 - en
+
+8h30: 0 - unknown
+
+18h30: 0 - unknown
+
+dragon: 0 - en
+
+tours: 0 - en
+
+valenciani: 0 - unknown
+
+76: 0 - number
+
+8252225: 0 - number
+
+oriental: 0 - en
+
+jade: 0 - en
+
+pepperonis: 0 - unknown
+
+98: 0 - number
+
+7030: 0 - number
+
+pepperonisvietnam: 0 - unknown
+
+cắt: 0 - vn
+
+uốn: 0 - vn
+
+nhuộm: 0 - vn
+
+dáy: 0 - vn
+
+tai: 0 - vn
+
+8286: 0 - number
+
+288: 0 - number
+
+ubnd: 0 - unknown
+
+hikosen: 0 - unknown
+
+cara: 0 - en
+
+brand: 0 - en
+
+104: 0 - number
+
+8289321: 0 - number
+
+affetto: 0 - unknown
+
+106: 0 - number
+
+928: 0 - number
+
+8070: 0 - number
+
+베: 0 - ko
+
+트: 0 - ko
+
+남: 0 - ko
+
+전: 0 - ko
+
+통: 0 - ko
+
+마: 0 - ko
+
+사: 0 - ko
+
+지: 0 - ko
+
+roma: 0 - en
+
+healing: 0 - en
+
+touch: 0 - en
+
+0948: 0 - number
+
+388: 0 - number
+
+679: 0 - number
+
+woori: 0 - unknown
+
+8288280: 0 - number
+
+wholesale: 0 - en
+
+327: 0 - number
+
+0204: 0 - number
+
+본: 0 - ko
+
+촌: 0 - ko
+
+bonchon: 0 - unknown
+
+0859: 0 - number
+
+466: 0 - number
+
+takeeateasy: 0 - unknown
+
+2016: 0 - number
+
+non: 0 - vn
+
+ý: 0 - vn
+
+quân: 0 - vn
+
+18b: 0 - unknown
+
+287057: 0 - number
+
+cỏ: 0 - vn
+
+18a: 0 - unknown
+
+02438289925: 0 - number
+
+running: 0 - en
+
+qhk: 0 - unknown
+
+tacos: 0 - en
+
+ii: 0 - en
+
+5614015: 0 - number
+
+mediterraneo: 0 - unknown
+
+ristorante: 0 - unknown
+
+italiano: 0 - fr
+
+runam: 0 - unknown
+
+gifting: 0 - en
+
+minerva: 0 - en
+
+church: 0 - en
+
+fours: 0 - en
+
+chăn: 0 - vn
+
+con: 0 - vn
+
+elegant: 0 - en
+
+tree: 0 - en
+
+painter: 0 - en
+
+look: 0 - en
+
+please: 0 - en
+
+après: 0 - fr
+
+photo: 0 - en
+
+àlíntérieure: 0 - unknown
+
+38288953: 0 - number
+
+026: 0 - number
+
+5955: 0 - number
+
+3664: 0 - number
+
+phu: 0 - vn
+
+3385: 0 - number
+
+0666: 0 - number
+
+coffilia: 0 - unknown
+
+apricot: 0 - en
+
+thạch: 1 - vn
+
+electric: 1 - en
+
+ticket: 1 - en
+
+car: 1 - en
+
+245: 1 - number
+
+000đ: 1 - unknown
+
+miễn: 1 - vn
+
+phí: 1 - vn
+
+nhật: 1 - vn
+
+662: 1 - number
+
+jewelry: 1 - en
+
+thẩm: 1 - vn
+
+định: 1 - vn
+
+545: 1 - number
+
+481: 1 - number
+
+cục: 1 - vn
+
+code: 1 - en
+
+spring: 1 - en
+
+étage: 1 - fr
+
+address: 1 - en
+
+8888: 1 - number
+
+0944: 1 - number
+
+898: 1 - number
+
+9b: 1 - unknown
+
+mài: 1 - vn
+
+thăng: 1 - vn
+
+đtch: 1 - unknown
+
+card: 1 - en
+
+exhibition: 1 - en
+
+quản: 1 - vn
+
+gem: 1 - en
+
+joint: 1 - en
+
+stock: 1 - en
+
+thiên: 1 - vn
+
+nhiên: 1 - vn
+
+selling: 1 - en
+
+from: 1 - en
+
+3rd: 1 - en
+
+099: 1 - number
+
+茶: 1 - zh
+
+mst: 1 - en
+
+hung: 1 - vn
+
+lưu: 1 - vn
+
+niệm: 1 - vn
+
+collection: 1 - en
+
+silver: 1 - en
+
+không: 1 - vn
+
+386: 1 - number
+
+ロ: 1 - ja
+
+menard: 1 - en
+
+japan: 1 - en
+
+salon: 1 - en
+
+vid: 1 - unknown
+
+393: 1 - number
+
+baoviet: 1 - unknown
+
+chứng: 1 - vn
+
+it: 1 - en
+
+love: 1 - en
+
+0468: 1 - number
+
+egg: 1 - en
+
+wifi: 1 - unknown
+
+66: 1 - number
+
+fruitsmart: 1 - unknown
+
+balcony: 1 - en
+
+take: 1 - en
+
+dazs: 1 - unknown
+
+ctcp: 1 - unknown
+
+highlands: 1 - en
+
+club: 1 - en
+
+cá: 1 - vn
+
+bột: 1 - vn
+
+đào: 1 - vn
+
+mơ: 1 - vn
+
+châu: 1 - vn
+
+authentic: 1 - en
+
+nhượng: 1 - vn
+
+kết: 1 - vn
+
+cup: 1 - en
+
+rẽ: 1 - vn
+
+phải: 1 - vn
+
+hk: 1 - en
+
+hãng: 1 - vn
+
+star: 1 - en
+
+centre: 1 - en
+
+home: 1 - en
+
+alluvia: 1 - en
+
+822: 1 - number
+
+050: 1 - number
+
+original: 1 - en
+
+roasted: 1 - en
+
+kopiluwak: 1 - unknown
+
+weasel: 1 - en
+
+lotus: 1 - en
+
+circle: 1 - en
+
+tươi: 1 - vn
+
+hoang: 1 - vn
+
+368: 1 - number
+
+hải: 1 - vn
+
+khô: 1 - vn
+
+xúc: 1 - vn
+
+chim: 1 - vn
+
+bird: 1 - en
+
+pork: 1 - en
+
+tây: 1 - vn
+
+french: 1 - en
+
+chân: 1 - vn
+
+mai: 1 - vn
+
+que: 1 - vn
+
+đậu: 1 - vn
+
+grean: 1 - unknown
+
+dâu: 1 - vn
+
+strawberry: 1 - en
+
+85gr: 1 - unknown
+
+450gr: 1 - unknown
+
+262: 1 - number
+
+book: 1 - en
+
+dung: 1 - vn
+
+loan: 1 - vn
+
+ding: 1 - en
+
+0922: 1 - number
+
+075757: 1 - number
+
+57c: 1 - unknown
+
+hạ: 1 - vn
+
+0983: 1 - number
+
+certificate: 1 - en
+
+excellence: 1 - en
+
+63: 1 - number
+
+thật: 1 - vn
+
+vintage: 1 - en
+
+と: 1 - ja
+
+open: 1 - en
+
+giới: 1 - vn
+
+thiệu: 1 - vn
+
+tmcp: 1 - unknown
+
+tiktak: 1 - unknown
+
+working: 1 - en
+
+space: 1 - en
+
+espace: 1 - en
+
+savina: 1 - en
+
+france: 1 - en
+
+ga: 1 - vn
+
+maison: 1 - en
+
+hiệp: 1 - vn
+
+blockchain: 1 - en
+
+44: 1 - number
+
+ceramics: 1 - en
+
+duy: 1 - vn
+
+bakery: 1 - en
+
+my: 1 - en
+
+antiques: 1 - en
+
+0915: 1 - number
+
+pharmacy: 1 - en
+
+phạm: 1 - vn
+
+chăm: 1 - vn
+
+sóc: 1 - vn
+
+khỏe: 1 - vn
+
+trách: 1 - vn
+
+dsđh: 1 - unknown
+
+gcn: 1 - unknown
+
+đủ: 1 - vn
+
+03: 1 - number
+
+ddkkddd: 1 - unknown
+
+hno: 1 - unknown
+
+9387: 1 - number
+
+07: 1 - number
+
+trusted: 1 - en
+
+4b: 1 - unknown
+
+phong: 1 - vn
+
+hitechworld: 1 - unknown
+
+perfume: 1 - en
+
+cho: 1 - vn
+
+thuê: 1 - vn
+
+palace: 1 - en
+
+hòa: 1 - vn
+
+41: 1 - number
+
+bespoke: 1 - en
+
+tailored: 1 - en
+
+hours: 1 - en
+
+menu: 1 - en
+
+ray: 1 - vn
+
+043: 1 - number
+
+bích: 1 - vn
+
+tiếp: 1 - vn
+
+338: 1 - number
+
+689: 1 - number
+
+1121: 1 - number
+
+đây: 1 - vn
+
+rang: 1 - vn
+
+866: 1 - number
+
+71: 1 - number
+
+thịnh: 1 - vn
+
+nga: 1 - vn
+
+chiến: 1 - vn
+
+nghĩa: 1 - vn
+
+ba: 1 - vn
+
+cặp: 1 - vn
+
+lo: 1 - vn
+
+su: 1 - vn
+
+363: 1 - number
+
+beer: 1 - en
+
+taste: 1 - en
+
+52: 1 - number
+
+111: 1 - number
+
+giấy: 1 - vn
+
+034: 1 - number
+
+skywalkers: 1 - unknown
+
+83: 1 - number
+
+696: 1 - number
+
+tiệc: 1 - vn
+
+cưới: 1 - vn
+
+quả: 1 - vn
+
+chất: 1 - vn
+
+266: 1 - number
+
+giao: 1 - vn
+
+didongviet: 1 - unknown
+
+shinhan: 1 - unknown
+
+decor: 1 - en
+
+mua: 1 - vn
+
+thay: 1 - vn
+
+khiển: 1 - vn
+
+ctrl: 1 - en
+
+1996: 1 - number
+
+apartment: 1 - en
+
+mr: 1 - en
+
+1997: 1 - number
+
+chụp: 1 - vn
+
+chế: 1 - vn
+
+fine: 1 - en
+
+st: 1 - en
+
+bread: 1 - en
+
+factory: 1 - en
+
+day: 1 - vn
+
+8257: 1 - number
+
+14: 1 - number
+
+54: 1 - number
+
+bì: 1 - vn
+
+3824: 1 - number
+
+pizza: 1 - en
+
+song: 1 - vn
+
+chè: 1 - vn
+
+sen: 1 - vn
+
+tín: 1 - vn
+
+bề: 1 - vn
+
+bàn: 1 - vn
+
+xí: 1 - vn
+
+quán: 1 - vn
+
+http: 1 - unknown
+
+khoá: 1 - vn
+
+tay: 1 - vn
+
+ăn: 1 - vn
+
+0987: 1 - number
+
+nhập: 1 - vn
+
+khẩu: 1 - vn
+
+vihafood: 1 - unknown
+
+power: 1 - en
+
+2220: 1 - number
+
+chuyển: 1 - vn
+
+viettel: 1 - unknown
+
+3926: 1 - number
+
+optical: 1 - en
+
+kê: 1 - vn
+
+hàn: 1 - vn
+
+mạ: 1 - vn
+
+đo: 1 - vn
+
+test: 1 - en
+
+eyes: 1 - en
+
+far: 1 - en
+
+near: 1 - en
+
+progressive: 1 - en
+
+0985: 1 - number
+
+tử: 1 - vn
+
+tròng: 1 - vn
+
+visa: 1 - en
+
+70: 1 - number
+
+pantip: 1 - unknown
+
+đã: 1 - vn
+
+online: 1 - en
+
+gov: 1 - en
+
+aurora: 1 - en
+
+shampoo: 1 - en
+
+pháp: 1 - vn
+
+giang: 1 - vn
+
+be: 1 - vn
+
+royal: 1 - en
+
+339: 1 - number
+
+you: 1 - en
+
+bún: 1 - vn
+
+laito: 1 - unknown
+
+gội: 1 - vn
+
+xôi: 1 - vn
+
+991: 1 - number
+
+tired: 1 - en
+
+package: 1 - en
+
+international: 1 - en
+
+3thotel: 1 - unknown
+
+037: 1 - number
+
+mf: 1 - en
+
+truly: 1 - en
+
+939: 1 - number
+
+918: 1 - number
+
+unique: 1 - en
+
+design: 1 - en
+
+ceramic: 1 - en
+
+stone: 1 - en
+
+lacquer: 1 - en
+
+many: 1 - en
+
+other: 1 - en
+
+651: 1 - number
+
+0180: 1 - number
+
+沉: 1 - zh
+
+香: 1 - zh
+
+tuệ: 1 - vn
+
+ward: 1 - en
+
+mini: 1 - en
+
+tailoring: 1 - en
+
+camera: 1 - en
+
+máy: 1 - vn
+
+quyên: 1 - vn
+
+corner: 1 - en
+
+vegetarian: 1 - en
+
+bếp: 1 - vn
+
+0962969262: 1 - number
+
+14b: 1 - unknown
+
+mart: 1 - en
+
+tráng: 1 - vn
+
+trộn: 1 - vn
+
+hanoitourists: 1 - unknown
+
+tính: 1 - vn
+
+dệt: 1 - vn
+
+mác: 1 - vn
+
+july: 1 - en
+
+quốc: 1 - vn
+
+ad: 1 - en
+
+mail: 1 - en
+
+sđt: 1 - unknown
+
+complet: 1 - fr
+
+veston: 1 - fr
+
+0916: 1 - number
+
+375: 1 - number
+
+viên: 1 - vn
+
+học: 1 - vn
+
+h: 1 - vn
+
+inside: 1 - en
+
+46: 1 - number
+
+oud: 1 - en
+
+68: 1 - number
+
+pcn: 1 - en
+
+108: 1 - number
+
+trứng: 1 - vn
+
+128: 1 - number
+
+portrait: 1 - en
+
+ton: 1 - vn
+
+gifts: 2 - en
+
+dong: 2 - vn
+
+corporation: 2 - en
+
+old: 2 - en
+
+giá: 2 - vn
+
+price: 2 - en
+
+gian: 2 - vn
+
+chủ: 2 - vn
+
+093: 2 - number
+
+sức: 2 - vn
+
+gold: 2 - en
+
+call: 2 - en
+
+một: 2 - vn
+
+company: 2 - en
+
+limited: 2 - en
+
+l: 2 - en
+
+quay: 2 - vn
+
+tranh: 2 - vn
+
+đông: 2 - vn
+
+quang: 2 - vn
+
+4g: 2 - unknown
+
+tin: 2 - vn
+
+thị: 2 - vn
+
+natural: 2 - en
+
+35: 2 - number
+
+31: 2 - number
+
+giải: 2 - vn
+
+trí: 2 - vn
+
+hát: 2 - vn
+
+19: 2 - number
+
+cp: 2 - en
+
+tuan: 2 - en
+
+world: 2 - en
+
+little: 2 - en
+
+32: 2 - number
+
+lẩu: 2 - vn
+
+ー: 2 - ja
+
+78: 2 - number
+
+3938: 2 - number
+
+hùng: 2 - vn
+
+fb: 2 - en
+
+tm: 2 - en
+
+bistro: 2 - en
+
+optic: 2 - en
+
+đ: 2 - unknown
+
+web: 2 - en
+
+100: 2 - number
+
+est: 2 - en
+
+accessories: 2 - en
+
+0906: 2 - number
+
+ngon: 2 - vn
+
+chocolate: 2 - en
+
+souvenirs: 2 - en
+
+blue: 2 - en
+
+mountain: 2 - en
+
+arabica: 2 - en
+
+37: 2 - number
+
+đa: 2 - vn
+
+thịt: 2 - vn
+
+rán: 2 - vn
+
+chua: 2 - vn
+
+roll: 2 - en
+
+lắc: 2 - vn
+
+1958: 2 - number
+
+cốm: 2 - vn
+
+flake: 2 - en
+
+dừa: 2 - vn
+
+matcha: 2 - fr
+
+taro: 2 - en
+
+bean: 2 - en
+
+vani: 2 - en
+
+vanilla: 2 - en
+
+50: 2 - number
+
+dân: 2 - vn
+
+handicrafts: 2 - en
+
+thang: 2 - vn
+
+túi: 2 - vn
+
+view: 2 - en
+
+1955: 2 - number
+
+phở: 2 - vn
+
+gươm: 2 - vn
+
+tân: 2 - vn
+
+đầu: 2 - vn
+
+de: 2 - vn
+
+paris: 2 - en
+
+sạn: 2 - vn
+
+beauty: 2 - en
+
+1950: 2 - number
+
+linh: 2 - vn
+
+275: 2 - number
+
+đẹp: 2 - vn
+
+alley: 2 - en
+
+tattoo: 2 - en
+
+bar: 2 - en
+
+dau: 2 - en
+
+la: 2 - vn
+
+painting: 2 - en
+
+zalo: 2 - unknown
+
+3934: 2 - number
+
+0988: 2 - number
+
+vân: 2 - vn
+
+62: 2 - number
+
+1990: 2 - number
+
+xã: 2 - vn
+
+nướng: 2 - vn
+
+nguyên: 2 - vn
+
+094: 2 - number
+
+mới: 2 - vn
+
+cocktail: 2 - en
+
+ban: 2 - vn
+
+67: 2 - number
+
+embroidery: 2 - en
+
+carving: 2 - en
+
+658: 2 - number
+
+seabank: 2 - en
+
+good: 2 - en
+
+thiếp: 2 - vn
+
+vị: 2 - vn
+
+hỏi: 2 - vn
+
+825: 2 - number
+
+19001288: 2 - number
+
+nhân: 2 - vn
+
+binh: 2 - vn
+
+60: 2 - number
+
+báo: 2 - vn
+
+0966: 2 - number
+
+cô: 2 - vn
+
+halong: 2 - unknown
+
+bay: 2 - vn
+
+sapa: 2 - en
+
+333: 2 - number
+
+we: 2 - en
+
+enjoy: 2 - en
+
+relax: 2 - en
+
+https: 2 - unknown
+
+city: 2 - en
+
+transport: 2 - en
+
+best: 2 - en
+
+info: 2 - en
+
+tóc: 2 - vn
+
+golden: 2 - en
+
+phú: 2 - vn
+
+thủ: 2 - vn
+
+đô: 2 - vn
+
+ho: 3 - vn
+
+lake: 3 - en
+
+30: 3 - number
+
+free: 3 - en
+
+8: 3 - number
+
+thứ: 3 - vn
+
+3825: 3 - number
+
+2nd: 3 - en
+
+9a: 3 - unknown
+
+đặc: 3 - vn
+
+sơn: 3 - vn
+
+cuốn: 3 - vn
+
+0989: 3 - number
+
+tố: 3 - vn
+
+information: 3 - en
+
+lãm: 3 - vn
+
+trưng: 3 - vn
+
+bày: 3 - vn
+
+bộ: 3 - vn
+
+tầng: 3 - vn
+
+chicken: 3 - en
+
+nhánh: 3 - vn
+
+hưng: 3 - vn
+
+singapore: 3 - en
+
+house: 3 - en
+
+fashion: 3 - en
+
+ngân: 3 - vn
+
+coconut: 3 - en
+
+090: 3 - number
+
+097: 3 - number
+
+salad: 3 - en
+
+chanh: 3 - vn
+
+c: 3 - en
+
+quyền: 3 - vn
+
+kẹp: 3 - vn
+
+chính: 3 - vn
+
+45: 3 - number
+
+co: 3 - vn
+
+k: 3 - en
+
+khoai: 3 - vn
+
+57a: 3 - unknown
+
+cà: 3 - vn
+
+htx: 3 - unknown
+
+49: 3 - number
+
+47: 3 - number
+
+trái: 3 - vn
+
+cây: 3 - vn
+
+bags: 3 - en
+
+cuisine: 3 - en
+
+tripadvisor: 3 - unknown
+
+hafasco: 3 - unknown
+
+huy: 3 - vn
+
+3936: 3 - number
+
+nhất: 3 - vn
+
+fax: 3 - en
+
+hội: 3 - vn
+
+02: 3 - number
+
+nguyễn: 3 - vn
+
+điều: 3 - vn
+
+giờ: 3 - vn
+
+mở: 3 - vn
+
+trầm: 3 - vn
+
+kỹ: 3 - vn
+
+lâm: 3 - vn
+
+d: 3 - en
+
+21: 3 - number
+
+xay: 3 - vn
+
+phương: 3 - vn
+
+nữ: 3 - vn
+
+hạnh: 3 - vn
+
+quần: 3 - vn
+
+ngay: 3 - vn
+
+nail: 3 - en
+
+viet: 3 - en
+
+tác: 3 - vn
+
+ninh: 3 - vn
+
+facebook: 3 - unknown
+
+lấy: 3 - vn
+
+bình: 3 - vn
+
+ẩm: 3 - vn
+
+năm: 3 - vn
+
+xuất: 3 - vn
+
+đức: 3 - vn
+
+lực: 3 - vn
+
+sighted: 3 - en
+
+district: 3 - en
+
+your: 3 - en
+
+handicraft: 3 - en
+
+lane: 3 - en
+
+điểm: 4 - vn
+
+for: 4 - en
+
+6: 4 - number
+
+vàng: 4 - vn
+
+cấp: 4 - vn
+
+quality: 4 - en
+
+phòng: 4 - vn
+
+kim: 4 - vn
+
+juice: 4 - en
+
+sim: 4 - vn
+
+91: 4 - number
+
+nguyen: 4 - en
+
+24: 4 - number
+
+chi: 4 - vn
+
+tuấn: 4 - vn
+
+091: 4 - number
+
+rice: 4 - en
+
+0903: 4 - number
+
+hiếu: 4 - vn
+
+11: 4 - number
+
+làm: 4 - vn
+
+39: 4 - number
+
+dinh: 4 - vn
+
+khách: 4 - vn
+
+milk: 4 - en
+
+12: 4 - number
+
+môn: 4 - vn
+
+phê: 4 - vn
+
+da: 4 - vn
+
+phát: 4 - vn
+
+9: 4 - number
+
+street: 4 - en
+
+food: 4 - en
+
+mobile: 4 - en
+
+dược: 4 - vn
+
+y: 4 - vn
+
+tế: 4 - vn
+
+thuốc: 4 - vn
+
+hapharco: 4 - unknown
+
+phụ: 4 - vn
+
+kiện: 4 - vn
+
+studio: 4 - en
+
+service: 4 - en
+
+thủy: 4 - vn
+
+boutique: 4 - en
+
+20: 4 - number
+
+du: 4 - vn
+
+tourist: 4 - en
+
+local: 4 - en
+
+hợp: 4 - vn
+
+23: 4 - number
+
+28: 4 - number
+
+truyền: 4 - vn
+
+sửa: 4 - vn
+
+chữa: 4 - vn
+
+42: 4 - number
+
+an: 4 - vn
+
+tailor: 4 - en
+
+0904: 4 - number
+
+thesinhtourist: 4 - unknown
+
+1993: 4 - number
+
+lightrip: 4 - unknown
+
+xe: 5 - vn
+
+từ: 5 - vn
+
+22: 5 - number
+
+18: 5 - number
+
+1900: 5 - number
+
+a: 5 - vn
+
+bank: 5 - en
+
+thanh: 5 - vn
+
+dist: 5 - en
+
+thể: 5 - vn
+
+thao: 5 - vn
+
+triển: 5 - vn
+
+3826: 5 - number
+
+25: 5 - number
+
+to: 5 - vn
+
+64: 5 - number
+
+cơ: 5 - vn
+
+10: 5 - number
+
+57: 5 - number
+
+13: 5 - number
+
+gia: 5 - vn
+
+33: 5 - number
+
+nộm: 5 - vn
+
+bò: 5 - vn
+
+nem: 5 - vn
+
+xanh: 5 - vn
+
+cacao: 5 - en
+
+mochi: 5 - unknown
+
+may: 5 - vn
+
+mì: 5 - vn
+
+61: 5 - number
+
+vi: 5 - vn
+
+27: 5 - number
+
+em: 5 - vn
+
+0912: 5 - number
+
+áo: 5 - vn
+
+69: 5 - number
+
+thoại: 5 - vn
+
+các: 5 - vn
+
+loại: 5 - vn
+
+29: 5 - number
+
+whatsapp: 5 - unknown
+
+lê: 6 - vn
+
+phường: 6 - vn
+
+trẻ: 6 - vn
+
+cao: 6 - vn
+
+đá: 6 - vn
+
+quý: 6 - vn
+
+thêu: 6 - vn
+
+dđ: 6 - unknown
+
+thu: 6 - vn
+
+ép: 6 - vn
+
+hóa: 6 - vn
+
+thuật: 6 - vn
+
+gallery: 6 - en
+
+lý: 6 - vn
+
+16: 6 - number
+
+thai: 6 - vn
+
+gà: 6 - vn
+
+ngõ: 6 - vn
+
+48: 6 - number
+
+mắt: 6 - vn
+
+38: 6 - number
+
+t: 6 - en
+
+lan: 6 - vn
+
+phục: 6 - vn
+
+no: 6 - vn
+
+ngọc: 6 - vn
+
+minh: 6 - vn
+
+51: 6 - number
+
+glasses: 6 - en
+
+post: 7 - en
+
+by: 7 - en
+
+5: 7 - number
+
+15: 7 - number
+
+sữa: 7 - vn
+
+nghệ: 7 - vn
+
+noi: 7 - vn
+
+thông: 7 - vn
+
+art: 7 - en
+
+p: 7 - en
+
+le: 7 - vn
+
+kinh: 7 - vn
+
+doanh: 7 - vn
+
+phone: 7 - en
+
+traditional: 7 - en
+
+098: 7 - number
+
+cone: 7 - en
+
+lễ: 7 - vn
+
+58: 7 - number
+
+nhận: 7 - vn
+
+bị: 7 - vn
+
+bài: 7 - vn
+
+hoa: 7 - vn
+
+thực: 7 - vn
+
+khanh: 7 - vn
+
+thờ: 7 - vn
+
+thành: 8 - vn
+
+floor: 8 - en
+
+sản: 8 - vn
+
+anh: 8 - vn
+
+booking: 8 - en
+
+tổng: 8 - vn
+
+tổ: 8 - vn
+
+4: 8 - number
+
+hn: 8 - unknown
+
+made: 8 - en
+
+tien: 8 - en
+
+000: 8 - number
+
+thiết: 8 - vn
+
+ảnh: 8 - vn
+
+buôn: 8 - vn
+
+lẻ: 8 - vn
+
+store: 8 - en
+
+handmade: 8 - en
+
+00: 9 - number
+
+center: 9 - en
+
+mỹ: 9 - vn
+
+office: 9 - en
+
+sở: 9 - vn
+
+q: 9 - en
+
+tnhh: 9 - unknown
+
+vietnamese: 9 - en
+
+souvenir: 9 - en
+
+dịch: 9 - vn
+
+vụ: 9 - vn
+
+silk: 9 - en
+
+bao: 9 - vn
+
+products: 9 - en
+
+phố: 10 - vn
+
+long: 10 - vn
+
+trà: 10 - vn
+
+17: 10 - number
+
+sách: 10 - vn
+
+s: 10 - en
+
+evnhanoi: 10 - unknown
+
+1: 11 - number
+
+đồng: 11 - vn
+
+and: 11 - en
+
+bưu: 11 - vn
+
+tâm: 11 - vn
+
+thái: 11 - vn
+
+7: 12 - number
+
+nước: 12 - vn
+
+ha: 12 - vn
+
+website: 12 - en
+
+cửa: 12 - vn
+
+restaurant: 12 - en
+
+cafe: 12 - en
+
+hanh: 12 - vn
+
+quận: 13 - vn
+
+hồ: 13 - vn
+
+email: 13 - en
+
+of: 13 - en
+
+hương: 13 - vn
+
+sũ: 13 - vn
+
+lịch: 13 - vn
+
+3: 14 - number
+
+thời: 14 - vn
+
+sinh: 14 - vn
+
+travel: 14 - en
+
+phẩm: 14 - vn
+
+mại: 14 - vn
+
+hiệu: 14 - vn
+
+chỉ: 14 - vn
+
+chuyên: 14 - vn
+
+lò: 14 - vn
+
+trung: 15 - vn
+
+tp: 15 - en
+
+bánh: 15 - vn
+
+tour: 16 - en
+
+gmail: 16 - unknown
+
+và: 16 - vn
+
+địa: 16 - vn
+
+kem: 16 - vn
+
+in: 16 - vn
+
+khánh: 16 - vn
+
+dép: 16 - vn
+
+84: 17 - number
+
+tea: 17 - en
+
+phần: 18 - vn
+
+since: 18 - en
+
+giầy: 18 - vn
+
+hành: 18 - vn
+
+vietnam: 19 - en
+
+2: 19 - number
+
+04: 19 - number
+
+khay: 19 - vn
+
+café: 19 - fr
+
+0243: 19 - number
+
+shop: 20 - en
+
+thương: 20 - vn
+
+bảo: 20 - vn
+
+can: 20 - vn
+
+tràng: 21 - vn
+
+kiem: 21 - unknown
+
+www: 21 - unknown
+
+kính: 21 - vn
+
+lương: 21 - vn
+
+tiền: 22 - vn
+
+cổ: 22 - vn
+
+điện: 22 - vn
+
+the: 22 - vn
+
+trong: 22 - vn
+
+hoan: 23 - vn
+
+nam: 23 - vn
+
+nhà: 23 - vn
+
+hotline: 24 - en
+
+str: 24 - en
+
+trang: 25 - vn
+
+việt: 25 - vn
+
+spa: 25 - en
+
+văn: 26 - vn
+
+bán: 27 - vn
+
+hotel: 27 - en
+
+add: 31 - en
+
+vn: 31 - en
+
+dầu: 31 - vn
+
+tiên: 34 - vn
+
+hoàng: 35 - vn
+
+024: 36 - number
+
+hanoi: 37 - en
+
+ice: 37 - en
+
+cream: 37 - en
+
+coffee: 39 - en
+
+ty: 40 - vn
+
+đinh: 41 - vn
+
+hang: 41 - vn
+
+com: 42 - vn
+
+đc: 43 - unknown
+
+tel: 46 - en
+
+công: 47 - vn
+
+số: 51 - vn
+
+trống: 55 - vn
+
+đt: 61 - unknown
+
+kiếm: 67 - vn
+
+hoàn: 68 - vn
+
+nội: 100 - vn
+
+hà: 103 - vn
+
+hàng: 149 - vn
+
