@@ -78,8 +78,9 @@ def count_words_by_language(text):
         # Regular expression pattern to match words including Chinese, Korean, Japanese characters, numbers, and phone numbers
         words = separate_characters_and_words(sentence)
         for word in words:
-            lang = detect_language(word)
-            word_count_by_language[lang][word] += 1
+            lower_word = word.lower()
+            lang = detect_language(lower_word)
+            word_count_by_language[lang][lower_word] += 1
 
     return word_count_by_language
 def count_words(text):
